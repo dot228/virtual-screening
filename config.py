@@ -1,0 +1,8 @@
+OUTPUT_CSV = "virtual_library_output.csv"
+
+MIN_MORGAN_SIM = 0.00001
+MIN_TOPO_SIM = 0.00001
+
+TOP_N = 10000
+
+LEAD_SMILES = "CC1=CC=CC=C1OCCN"
